@@ -1,0 +1,8 @@
+---
+title: "Did the Covid-19 affected the residential mobility patterns of migrants in Switzerland?"
+author: "Vestin Hategekimana & Philippe Wanner"
+format: revealjs
+editor: visual
+---
+
+## Introduction
